@@ -14,7 +14,7 @@ From here, select **Some of your information**, and scroll until you see ***Foll
 Choose to download the data to your device, modify the **Date Range** to include All Time, and change the format to **JSON**
 
 ## Compiling Data
-Once your Instagram data finishes downloading, download this project to your desktop.
+Once your Instagram data finishes downloading, download this project to your desktop. (Click the green *Code* button, then click Download as ZIP)
 
 Unzip the instagram file, and drag and drop the **connections** folder into your project folder.
 
