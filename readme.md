@@ -14,7 +14,7 @@ From here, select **Some of your information**, and scroll until you see ***Foll
 Choose to download the data to your device, modify the **Date Range** to include All Time, and change the format to **JSON**
 
 ## Compiling Data
-Once your Instagram data finishes downloading, download this project to your desktop. (Click the green *Code* button, then click Download as ZIP)
+Once your Instagram data finishes downloading, download this project. (Click the green *Code* button, then click Download as ZIP)
 
 Unzip the instagram file, and drag and drop the **connections** folder into your project folder.
 
@@ -28,9 +28,9 @@ Exit out of the **connections** folder, and paste these two files in the project
 
 **If you have a Python IDE already installed (VSCode, PyCharm, Spyder), open up the file and click run.**
 
-To run the program from the command line, open Terminal and navigate to the project folder. If the project folder is in your desktop, run these two commands:
+To run the program from the command line, open Terminal and navigate to the project folder. If the project folder is in your Downloads folder (default), run these two commands:
 
-`cd Desktop`
+`cd Downloads`
 
 `cd follow4follow-main`
 
