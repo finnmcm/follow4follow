@@ -32,7 +32,7 @@ To run the program from the command line, open Terminal and navigate to the proj
 
 `cd Desktop`
 
-`cd follow4follow`
+`cd follow4follow-main`
 
 To run the program, enter:  
 ` python ./followers.py`
